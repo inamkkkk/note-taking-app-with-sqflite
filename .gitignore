@@ -1,0 +1,45 @@
+# Flutter generated files
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# Build files
+build/
+.dart_tool/
+.packages
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Dependency lock files
+podfile.lock
+yarn.lock
+pm-shrinkwrap.json
+
+# Compiled artifacts
+*.apk
+*.ipa
+*.exe
+*.dll
+*.so
+*.a
+
+# Android Studio specific files
+.gradle/
+local.properties
+
+# Generated files
+lib/generated_plugin_registrant.dart
+
+# Other
+**/keys.dart
